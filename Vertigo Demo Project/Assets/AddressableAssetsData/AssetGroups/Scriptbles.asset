@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Scriptbles
+  m_EditorClassIdentifier: 
+  m_GroupName: Scriptbles
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 136e0e18715759046bb24098bad6b404
+  m_SerializeEntries:
+  - m_GUID: adc2ca46796a8d24e846e66450a4c49a
+    m_Address: Assets/WheelSlots/Containers/Container.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b6542d6112b383c448e06c1e091d41f0
+    m_Address: Assets/Prefabs/UI/ui_folder_slotContainer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bdfed5513d67cb64693320848bee8e56
+    m_Address: Assets/WheelSlots/Containers/Container 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 118ed1ab4698f2d488a70de7ec1d1245
+    m_Address: Assets/WheelSlots/Containers/Container 2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 09b20d6bd03501148a4c1aa69f061bdb
+    m_Address: Assets/Prefabs/UI/ui_image_card.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ef8611f93f506e41bf49c1572e9ea2f
+    m_Address: Assets/Sprites/Sprites/ui_card_panel_zone_current.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 58edcd0548f68c943acc32039c8c3fd2
+    m_Address: Assets/Sprites/Sprites/ui_card_panel_zone_super.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0bbc8d8fc757cd141a47eb6cd59b4644
+    m_Address: Assets/Sprites/Sprites/ui_card_panel_zone_white.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 40173f55e5b18ca4dab0fd4f4942b8f2
+    m_Address: Assets/WheelSlots/Containers/Container 3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d9346d7a7791bd4fa00833de8dc5561
+    m_Address: Assets/WheelSlots/Containers/Container 4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5d4339efdfe7bfc43a9e3a6b1c61d420
+    m_Address: Assets/WheelSlots/Containers/Container 5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 13380e61a04307140bb9dd6acb93fbdb
+    m_Address: Assets/WheelSlots/Containers/Container 6.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f88cdf344f1ec6f489cbbc82e56f5b18
+    m_Address: Assets/WheelSlots/Containers/Container 7.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 80ca3cdc01239014db36e8fed3d9d9d5
+    m_Address: Assets/WheelSlots/Containers/Container 8.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e95749c4c0d326a41b3c8c6c7a8bba88
+    m_Address: Assets/WheelSlots/Containers/Container 9.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3bf6422a83347ac47b91d9b1bef3f536
+    m_Address: Assets/WheelSlots/Containers/Container 10.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 51f42f0fe37bbc5449031cc0855539a8
+    m_Address: Assets/WheelSlots/Containers/Container 11.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b51754632fa1ff94d9caeb80066d80dc
+    m_Address: Assets/WheelSlots/Containers/Container 12.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 00a214de2076bde45a4f46006d41197c
+    m_Address: Assets/WheelSlots/Containers/Container 13.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 65c7e2b6e90a7474fab30ea6968454c0
+    m_Address: Assets/Prefabs/UI/ui_folder_collectedCard.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8fed37c076fe9f74890caf1753a00b27
+    m_Address: Assets/Prefabs/UI/ui_image_moveSpritesAnimation.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71d15dac86df0a64091ea0eaf30aa7d3
+    m_Address: Assets/ScriptibleObjects/Wheels/Wheel Visuals Bronz.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9f1332c1c2517434fb4355e8e9826e20
+    m_Address: Assets/WheelSlots/Containers/Container 14.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: beb6cafae823e084482ff41a0f748369
+    m_Address: Assets/WheelSlots/Containers/Container 15.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 638c460f3a889a945b4315a81b721dd3
+    m_Address: Assets/WheelSlots/Containers/Container 16.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1a530c1ff128ac74885c9cd34948cb09
+    m_Address: Assets/WheelSlots/Containers/Container 17.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7c31de8bcb9457743939658f46b14aec
+    m_Address: Assets/WheelSlots/Containers/Container 18.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 08c44971e0034044e9a0ff951f4a5d08
+    m_Address: Assets/WheelSlots/Containers/Container 19.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c53922b9ef358149b688646427db774
+    m_Address: Assets/WheelSlots/Containers/Container 20.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6980aaf4aa790354b91f3c5db85efcac
+    m_Address: Assets/WheelSlots/Containers/Container 21.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7ebf04b6710ad2c4e82aced2b880443a
+    m_Address: Assets/WheelSlots/Containers/Container 22.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e332993c1c7cbd84f85ee17152f007b2
+    m_Address: Assets/WheelSlots/Containers/Container 23.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f53772d26633a3c499c311f615b859ca
+    m_Address: Assets/WheelSlots/Containers/Container 24.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f9ae71eff0e36b47a71ffe3e6cde699
+    m_Address: Assets/WheelSlots/Containers/Container 25.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 19bb59d70f7da3e4cb043f21b3d798ce
+    m_Address: Assets/WheelSlots/Containers/Container 26.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 81830f646534f734699aca3821317ef5
+    m_Address: Assets/WheelSlots/Containers/Container 27.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc76131492f91da4d94fb5c5691ad4d4
+    m_Address: Assets/WheelSlots/Containers/Container 28.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e18cd49f99d2e044b9c9f3a69b8a3453
+    m_Address: Assets/WheelSlots/Containers/Container 29.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c40297c32230c6349bd03d464797452e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f797e78b1124c734dac598069c30e094, type: 2}
+    - {fileID: 11400000, guid: 4575bb5244afa2d42b4b1a20e89a5229, type: 2}

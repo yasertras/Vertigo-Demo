@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83e2cd9c745d84b4fb45f244af43f507, type: 3}
+  m_Name: Container 22
+  m_EditorClassIdentifier: 
+  slots:
+  - spriteName: 
+    value: 2
+    weaponType: 8
+    mainSprite: {fileID: 21300000, guid: 734c8f87d240e1e46864886751d0319a, type: 3}
+  - spriteName: 
+    value: 0
+    weaponType: 12
+    mainSprite: {fileID: 21300000, guid: 13f418efeaafd31408b8aec3a3639946, type: 3}
+  - spriteName: 
+    value: 1
+    weaponType: 11
+    mainSprite: {fileID: 21300000, guid: 147f8ebf1d1b96e4889f03174c05731d, type: 3}
+  - spriteName: 
+    value: 1
+    weaponType: 8
+    mainSprite: {fileID: 21300000, guid: c2bd65588ddbaad428d795f21348f618, type: 3}
+  - spriteName: 
+    value: 0
+    weaponType: 1
+    mainSprite: {fileID: 21300000, guid: e603444cfabc99b4fbb666ce3d7aa5b8, type: 3}
+  - spriteName: 
+    value: 2
+    weaponType: 3
+    mainSprite: {fileID: 21300000, guid: d3d4c2a06d87c534c9a1fef871eebc3e, type: 3}
+  - spriteName: 
+    value: 22
+    weaponType: 9
+    mainSprite: {fileID: 21300000, guid: c5546a74fe23d7b43bcee48cdad3e670, type: 3}
+  - spriteName: 
+    value: 2
+    weaponType: 8
+    mainSprite: {fileID: 21300000, guid: 734c8f87d240e1e46864886751d0319a, type: 3}
