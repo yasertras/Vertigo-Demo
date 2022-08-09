@@ -92,10 +92,11 @@ public class WheelController : MonoBehaviour
             }
         };
 
-        levelCard.InstantiateAsync().Completed += (go) =>
+        levelCard.LoadAssetAsync<GameObject>().Completed += (go) =>
         {
             float cardWidth = go.Result.GetComponent<RectTransform>().sizeDelta.x;
             float mul = 0.5f;
+            
             for (int i = 0; i < numObjects; i++)
             {
                 GameObject obj = Instantiate(go.Result);
@@ -123,7 +124,7 @@ public class WheelController : MonoBehaviour
             StartCoroutine(Mover());
         };
 
-        slotComponents.InstantiateAsync().Completed += (go) =>
+        slotComponents.LoadAssetAsync<GameObject>().Completed += (go) =>
         {
             radius = wheelTransform.sizeDelta.x * 0.25f;
             for (int i = 0; i < numObjects; i++)
